@@ -7,16 +7,8 @@ const asideMenuConfig = [
     icon: "chart-pie",
     children: [
       {
-        name: "home",
-        path: "/home"
-      },
-      {
         name: "dashboard",
         path: "/dashboard"
-      },
-      {
-        name: "about",
-        path: "/about"
       }
     ]
   }
