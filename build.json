@@ -1,0 +1,15 @@
+{
+  "publicPath": "/",
+  "hash": "contenthash",
+  "devServer": {
+    "historyApiFallback": true
+  },
+  "plugins": [
+    [
+      "build-plugin-fusion",
+      {
+        "themePackage": "@alifd/theme-design-pro"
+      }
+    ]
+  ]
+}
